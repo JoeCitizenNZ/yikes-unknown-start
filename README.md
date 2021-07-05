@@ -1,4 +1,5 @@
 yikes-unknown-start
 ===================
 
-Tricky getting started, but WTF?
+Still trying to get my head around Github. Easy when you know how..
+
